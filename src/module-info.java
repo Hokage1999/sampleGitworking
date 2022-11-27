@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sysadmin
+ *
+ */
+module JavaProjectSample {
+}
